@@ -1,0 +1,18 @@
+B1: tạo 1 github repository (folder chứa code)
+
+B2: tạo Folder chứa code (trên máy)
+    clone project bằng câu lệnh 
+    ( git clone ) + link github
+
+B3: 	Viết code:
+	$ git status
+	(xem trạng thái file)
+
+	$ git add .
+	(thêm File)
+
+	$ git commit -m "cái này ghi message dô"
+	(tạo ND conmmit)
+
+	$ git push origin main
+	(đẩy nd lên github)
